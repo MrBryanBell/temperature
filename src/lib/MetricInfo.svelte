@@ -14,7 +14,7 @@
 </div>
 
 <slot>
-    <p>No Slot Detected</p>
+    <p>No Slot Detecteddd</p>
 </slot>
 
 <p class='interpolator-type'>RGB INTERPOLATOR</p>
